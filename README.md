@@ -17,7 +17,7 @@ Install the required libraries using pip:
 
 ```bash
 pip install pygame
-
+ ```
 ## Run Script
 
 Run the script using:
