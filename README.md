@@ -8,7 +8,7 @@ Additionally, the solver's progress is visualized using Pygame, showing each ste
 
 ## Features
 
-- **A* Algorithm**: The solver uses the A* algorithm to find the shortest path from the initial state to the goal state. It employs a heuristic based on the Manhattan distance to evaluate the cost of moves.
+- **A * Algorithm**: The solver uses the A* algorithm to find the shortest path from the initial state to the goal state. It employs a heuristic based on the Manhattan distance to evaluate the cost of moves.
 - **Pygame Visualization**: The entire process is visualized using Pygame, where the tiles' movements and the state transitions are shown graphically.
 
 ## Installation
@@ -17,4 +17,10 @@ Install the required libraries using pip:
 
 ```bash
 pip install pygame
-# 8-puzzle-solver
+
+## Run Script
+
+Run the script using:
+
+```bash
+python3 play.py
